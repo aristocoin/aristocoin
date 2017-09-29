@@ -1,0 +1,9 @@
+Building AristoCoin
+
+See doc/readme-qt.rst for instructions on building AristoCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AristoCoin.
+
+See doc/build-*.txt for instructions on building aristocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AristoCoin.

@@ -1,0 +1,7 @@
+merkle : cd6708fac23d094486e2b2dbf23a8d4432d9d98e24b2ac714803e449293aabba
+block.nNonce = 1815425
+block.GetHash = ace959a266b85fe194e3ae0d67c7ba1d13afda2a6377175b9f2d69e75f3cbd76
+
+2017-03-24 06:40:20 SetBestChain: new best=bd93d21ecf9ea1b63bc97685f2cfe0e7c2137769b025be8d32d9f38de6a7c4f1  height=489  log2_work=31.593893  tx=490  date=2017-03-24 06:40:20 progress=1.000000
+
+epoch time : 1490337620
